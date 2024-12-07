@@ -1,0 +1,15 @@
+Team Members:
+BSDSF22028-Muhammad Shoaib Ahmad
+BSDSF22033-Rana Muhammad Umer Riaz
+
+
+
+
+Database users already created:
+User 1:      
+      Username: umer123
+      Password: 123456
+
+User 2:
+      Username: shoaib123
+      Password: 123456
