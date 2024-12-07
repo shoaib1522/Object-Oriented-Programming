@@ -80,6 +80,3 @@ Feel free to fork this repository and submit pull requests to improve the projec
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
 
----
-
-This README now explains the overall structure of your repository, clarifying that it is focused on OOP concepts, with the **Bank System** project being one of the key parts. Let me know if you need any more adjustments!
